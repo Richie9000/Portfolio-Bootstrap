@@ -7,5 +7,5 @@
  - Bootstrap.
 
 ## Built by
- - @Richie9000(https://github.com/Richie9000).
- - @leonardodiasb(https://github.com/leonardodiasb).
+ - [@Richie9000](https://github.com/Richie9000).
+ - [@leonardodiasb](https://github.com/leonardodiasb).
